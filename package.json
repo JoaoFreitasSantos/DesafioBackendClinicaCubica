@@ -4,8 +4,8 @@
   "description": "Aplicação Backend voltada para criar regras de atendimento em uma clinica, salvando tais regras num arquivo JSON",
   "main": "index.js",
   "scripts": {
-    "start": "cd src && node servidor.js",
-    "test": "cd test && node servidor.test.js",
+    "start": "cd src && node servidor.ts",
+    "test": "cd test && node servidor.test.ts",
     "cubos": "npm test && npm start"
   },
   "author": "João Felipe Freitas",

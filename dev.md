@@ -27,4 +27,4 @@ npm install
 ## Endpoints para testar
 
 ## Teste-unitario
-_Para rodar os testes unitários da aplicação, entre na pasta raiz da aplicação e execute o comando `npm test` para rodar os testes. a dependência tap-spec formata sua  _
+_Para rodar os testes unitários da aplicação, entre na pasta raiz da aplicação e execute o comando `npm test` para rodar os testes. a dependência tap-spec formata o resultado dos testes num formato mais agradável de ser observar. _
