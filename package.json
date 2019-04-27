@@ -6,6 +6,7 @@
   "scripts": {
     "start": "cd src && node servidor.js",
     "test": "cd test && node servidor.test.js",
+    "dev": "cd src && nodemon servidor.js",
     "cubos": "npm test && npm start"
   },
   "author": "João Felipe Freitas",
@@ -14,9 +15,7 @@
     "@types/lowdb": "^1.0.7",
     "express": "^4.16.4",
     "lowdb": "^1.0.0",
-    "tap-spec": "^5.0.0",
-    "tape": "^4.10.1",
-    "typescript": "^3.4.5"
+    "uuidv4": "^4.0.0"
   },
   "devDependencies": {
     "@types/express": "^4.16.1",
