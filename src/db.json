@@ -1,0 +1,125 @@
+{
+  "regra": [
+    {
+      "tipo": "semana",
+      "dias": [
+        1,
+        2
+      ],
+      "horario": [
+        {
+          "inicio": "10:20",
+          "fim": "11:20"
+        },
+        {
+          "inicio": "15:30",
+          "fim": "16:40"
+        }
+      ],
+      "id": "265837f3-23a1-445a-b572-b3083b05b930"
+    },
+    {
+      "tipo": "especifico",
+      "dias": [
+        "11-08-2022"
+      ],
+      "horario": [
+        {
+          "inicio": "08:15",
+          "fim": "08:45"
+        },
+        {
+          "inicio": "13:30",
+          "fim": "18:30"
+        }
+      ],
+      "id": "95c6ddf7-c1d8-4ee4-8da8-662ee863fb85"
+    },
+    {
+      "tipo": "especifico",
+      "dias": [
+        "11-09-2021"
+      ],
+      "horario": [
+        {
+          "inicio": "08:00",
+          "fim": "12:00"
+        },
+        {
+          "inicio": "14:00",
+          "fim": "18:00"
+        }
+      ],
+      "id": "aa285085-6700-4f2f-9b65-10ecded995d8"
+    },
+    {
+      "tipo": "especifico",
+      "dias": [
+        "12-09-2021"
+      ],
+      "horario": [
+        {
+          "inicio": "08:00",
+          "fim": "12:00"
+        },
+        {
+          "inicio": "14:00",
+          "fim": "18:00"
+        }
+      ],
+      "id": "b075cc4e-bb69-4147-bda2-3d6e4f0ec0f6"
+    },
+    {
+      "tipo": "especifico",
+      "dias": [
+        "13-09-2021"
+      ],
+      "horario": [
+        {
+          "inicio": "08:00",
+          "fim": "12:00"
+        },
+        {
+          "inicio": "14:00",
+          "fim": "18:00"
+        }
+      ],
+      "id": "23b31f3b-c872-401e-a9d4-a65a57b4cf05"
+    },
+    {
+      "tipo": "dia",
+      "dias": [
+        0
+      ],
+      "horario": [
+        {
+          "inicio": "01:00",
+          "fim": "03:00"
+        },
+        {
+          "inicio": "03:10",
+          "fim": "03:50"
+        }
+      ],
+      "id": "6c0ec4b9-8163-491d-94f7-508362a07179"
+    },
+    {
+      "tipo": "semana",
+      "dias": [
+        1,
+        2
+      ],
+      "horario": [
+        {
+          "inicio": "05:20",
+          "fim": "07:20"
+        },
+        {
+          "inicio": "22:30",
+          "fim": "23:40"
+        }
+      ],
+      "id": "4bd2d2bc-1235-40dc-b1ea-fce18e461d7e"
+    }
+  ]
+}

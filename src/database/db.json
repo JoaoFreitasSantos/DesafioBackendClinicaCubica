@@ -1,0 +1,40 @@
+{
+  "regra": [
+    {
+      "id": 33,
+      "data": "31-12-2033",
+      "dia": "2",
+      "tipoRegra": 1,
+      "horarios": "444"
+    },
+    {
+      "id": 1,
+      "data": "01-12-2033",
+      "dia": "31312",
+      "tipoRegra": 4,
+      "horarios": "444"
+    },
+    {
+      "id": 11,
+      "data": "01-12-2019",
+      "dia": "31312",
+      "tipoRegra": 4,
+      "horarios": "444"
+    },
+    {
+      "id": 11,
+      "data": "01-12-2019",
+      "dia": "31312",
+      "tipoRegra": 4,
+      "horarios": "444"
+    },
+    {
+      "id": 21,
+      "data": "01-12-2019",
+      "dia": "31312",
+      "tipoRegra": 4,
+      "horarios": "444"
+    }
+  ],
+  "indice": 0
+}
